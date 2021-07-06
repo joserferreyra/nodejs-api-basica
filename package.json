@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-api-basica",
+  "version": "1.0.0",
+  "description": "API básica que sirve como punto de partida para crear soluciones cuasi genéricas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joserferreyra/nodejs-api-basica.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joserferreyra/nodejs-api-basica/issues"
+  },
+  "homepage": "https://github.com/joserferreyra/nodejs-api-basica#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
